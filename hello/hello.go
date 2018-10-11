@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"stringutil"
+	"github.com/sdaoudi/golang/stringutil"
 )
 
 func main() {
